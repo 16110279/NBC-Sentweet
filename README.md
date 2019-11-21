@@ -13,7 +13,7 @@ Memprediksi klasifikasi sentimen teks tweet berbahasa Indonesia berdasarkan data
 Inovasi dan Potensi mengenai proyek dan ini adalah diharapkan dimasa depan dapat terus dikembangkan sehingga bisa digunakan untuk mengolah statistik sentimen masyarakat Indonesia di media sosial Twitter, dan apabila memungkinkan diintegrasikan dengan sistem pakar yang dapat memberikan solusi atas permasalahan berdasarkan data sentimen yang sudah diolah.
 
 # Copyright
-Hak Cipta Dilindungi oleh Direktorat Jenderal Kekayaan Intelektual, Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia
+Hak Cipta aplikasi ini dilindungi oleh Direktorat Jenderal Kekayaan Intelektual, Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia <br>
 https://e-hakcipta.dgip.go.id/index.php/c?code=6ylspCsoIhQPjaMAPO%2FvX14oLPFcANL0cullibJbCTk%3D
 
 # Screenshot
