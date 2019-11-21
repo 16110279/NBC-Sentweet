@@ -1,9 +1,16 @@
 # NBC-Sentweet
-Naive Bayes Classifier Sentimen Tweet <br>
-Aplikasi Analisis Sentimen berbasis web yang dibangun dengan PHP Native dan Bootstrap, mengimplementasikan Algoritma Naive Bayes Classifier
+NBC-Sentweet atau Naive Bayes Classifier Sentimen Tweet adalah  aplikasi berbasis web, dibuat menggunakan bahasa pemograman PHP dengan mengimplementasikan algoritma Naive Bayes Classifier yang berfungsi untuk memprediksi klasifikasi sentimen teks tweet berbahasa Indonesia berdasarkan data latih yang sudah disiapkan.
 <br>
 
 Nominator Event Amicta 2019 Kategori Data Mining & AI
+
+# Fungsi, Fitur / Kegunaan
+
+Memprediksi klasifikasi sentimen teks tweet berbahasa Indonesia berdasarkan data latih yang sudah disiapkan. Dapat digunakan untuk mencari kata yang paling sering muncul di sekumpulan data yang diambil dari Twitter. Dapat digunakan untuk mencari kata yang dianggap penting di sekumpulan data yang diambil dari Twitter.
+
+# Inovasi Potensi
+
+Inovasi dan Potensi mengenai proyek dan ini adalah diharapkan dimasa depan dapat terus dikembangkan sehingga bisa digunakan untuk mengolah statistik sentimen masyarakat Indonesia di media sosial Twitter, dan apabila memungkinkan diintegrasikan dengan sistem pakar yang dapat memberikan solusi atas permasalahan berdasarkan data sentimen yang sudah diolah.
 
 # Copyright
 Hak Cipta Dilindungi oleh Direktorat Jenderal Kekayaan Intelektual, Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia
